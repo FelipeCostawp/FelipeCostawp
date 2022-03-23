@@ -28,7 +28,7 @@
 <div style="display: inline_block" align="center">
 
 <div>
-    <img width="250px" src="https://images.pexels.com/photos/4450115/pexels-photo-4450115.jpeg?cs=srgb&dl=pexels-nataliya-vaitkevich-4450115.jpg&fm=jpg">
+    <img alt="Felipe" height="250" width="250"style="border-radius:100%;object-fit:cover;" src="https://images.pexels.com/photos/4450115/pexels-photo-4450115.jpeg?cs=srgb&dl=pexels-nataliya-vaitkevich-4450115.jpg&fm=jpg">
     
 <div align="center">
   <a href="https://github.com/felipecostawp">
