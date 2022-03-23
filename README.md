@@ -43,7 +43,7 @@
     <a href="#"><img align="center" alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" /></a>
 </div>
 
-## 👩🏾‍💻 O que eu sei
+## 🧠 O que eu sei
 
 <div style="display: inline_block" >
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -63,7 +63,7 @@
   <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </div><br/>
 
-## 📝 Quero aprender
+## 📜 Quero aprender
 
 <div style="display: inline_block">
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
@@ -103,7 +103,7 @@
   <img align="center" alt="youtubemusic" src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" />
 </div><br/>
 
-## 📽️ Streaming
+## 🎥 Streaming
 
 <div style="display: inline_block">
   <img align="center" alt="netflix" src="https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white" />
@@ -123,3 +123,4 @@
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
   <img align="center" alt="jQuery" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
 </div><br/>
+
