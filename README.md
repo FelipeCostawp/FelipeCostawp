@@ -1,28 +1,4 @@
-## Olá! Eu sou o Felipe Costa <!--🖖🏾🧑🏾‍💻-->
-<!--<div align="center">
-  <a href="https://github.com/felipecostawp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeCostawp&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-## 👨🏾‍💼 Sobre Mim
-
-<div style="display: flex">
-
-<div>
-    <img height="300px" src="https://images.pexels.com/photos/4450115/pexels-photo-4450115.jpeg?cs=srgb&dl=pexels-nataliya-vaitkevich-4450115.jpg&fm=jpg">
-</div>
-
-<div align="center" >
-    <p>📝 Felipe Souza Costa</p>
-    <p>🎂 02/01/1995</p>
-    <p>📍 Brasil, Rio de janeiro, RJ</p>
-</div>
-
-</div>
-
-## 🤳🏿Contato
-## 👨🏾‍💼 Sobre Mim-->
+## Olá! Eu sou o Felipe Costa 
 
 <div style="display: inline_block" align="center">
 
