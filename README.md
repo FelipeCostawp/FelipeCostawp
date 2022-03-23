@@ -1,7 +1,4 @@
 ## Olá! Eu sou o Felipe Costa <!--🖖🏾🧑🏾‍💻-->
-<div>
-   <img alt="Seguir"" src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000">
-</div>
 <!--<div align="center">
   <a href="https://github.com/felipecostawp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeCostawp&show_icons=true&theme=dracula&count_private=true"/>
