@@ -6,7 +6,15 @@
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>-->
 </div>
 
-## 🤳🏿 Contato
+## 👨🏾‍💼 Sobre Mim
+
+<div>
+    <p>📝 Felipe Souza Costa</p>
+    <p>🎂 02/01/1995</p>
+    <p>📍 Brasil, Rio de janeiro, RJ</p>
+</div>
+
+## 🤳🏿Contato
 
 <div style="display: inline_block">
     <a href="#"><img align="center" alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -29,7 +37,7 @@
   	
 </div><br/>
 
-## Redes Sociais
+## 🎭 Redes Sociais
 
 <div style="display: inline_block">
     <a href="#"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -81,7 +89,7 @@
   <img height="24px" align="center" alt="Photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg" />
 </div><br/>
 
-## 🕹️ Jogos
+## 🎮 Jogos
 
 <div style="display: inline_block">
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
