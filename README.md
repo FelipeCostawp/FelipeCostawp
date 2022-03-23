@@ -28,7 +28,7 @@
 <div style="display: inline_block" align="center">
 
 <div>
-    <img alt="Felipe" height="250" width="250"style="border-radius:100%;object-fit:cover;" src="https://images.pexels.com/photos/4450115/pexels-photo-4450115.jpeg?cs=srgb&dl=pexels-nataliya-vaitkevich-4450115.jpg&fm=jpg">
+    <img alt="Felipe" height="250" width="250"style="border-radius:0%;object-fit:cover;" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/320/apple/285/man-technologist-medium-dark-skin-tone_1f468-1f3fe-200d-1f4bb.png">
     
 <div align="center">
   <a href="https://github.com/felipecostawp">
@@ -83,7 +83,7 @@
   <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </div><br/>
 
-## 🧾 Quero aprender
+## 📝 Quero aprender
 
 <div style="display: inline_block">
   <img align="center" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
