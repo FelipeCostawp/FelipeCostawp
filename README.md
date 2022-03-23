@@ -1,5 +1,7 @@
 ## Olá! Eu sou o Felipe Costa <!--🖖🏾🧑🏾‍💻-->
-
+<div>
+   <img alt="Seguir"" src="https://img.shields.io/github/followers/{username}.svg?style=social&label=Follow&maxAge=2592000">
+</div>
 <!--<div align="center">
   <a href="https://github.com/felipecostawp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeCostawp&show_icons=true&theme=dracula&count_private=true"/>
@@ -73,8 +75,9 @@
   <img align="center" alt="React_Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </div><br/>
+<!--💽-->
 
-## 💽 Sistema Operacional
+## 🖥️ SO
 
 <div style="display: inline_block">
   <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
@@ -82,7 +85,7 @@
   	
 </div><br/>
 
-## 🎭 Redes Sociais
+## 📱 Redes Sociais
 
 <div style="display: inline_block">
     <a href="#"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
