@@ -100,7 +100,7 @@
   <img align="center" alt="jQuery" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
 </div><br/>
 
-<div style="display: inline_block;border-radius:100%;object-fit:cover;" align="center">
+<div style="display: inline_block" align="center">
 
 <img height="250" width="250" style="border-radius:100%;object-fit:cover;" alt="coding-time" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 
