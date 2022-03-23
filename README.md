@@ -1,4 +1,4 @@
-## Olá! Eu sou o Felipe Costa 🖖🏾🧑🏾‍💻
+## Olá! Eu sou o Felipe Costa <!--🖖🏾🧑🏾‍💻-->
 
 <!--<div align="center">
   <a href="https://github.com/felipecostawp">
