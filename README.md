@@ -102,7 +102,7 @@
 
 <div style="display: inline_block" align="center">
 
-<img height="250" width="250" style="border-radius:100%;object-fit:cover;" alt="coding-time" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
+ <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" height="300" width="300" style="border-radius:100%;object-fit:cover;">
 
 ![Snake animation](https://github.com/felipecostawp/felipecostawp/blob/output/github-contribution-grid-snake.svg)
 
