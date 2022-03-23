@@ -124,3 +124,4 @@
   <img align="center" alt="jQuery" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
 </div><br/>
 
+![Snake animation](https://github.com/felipecostawp/felipecostawp/blob/output/github-contribution-grid-snake.svg)
