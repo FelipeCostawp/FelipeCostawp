@@ -2,6 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=lasite.com.br&style=for-the-badge&url=https://lasite.com.br/)](https://lasite.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://sujeitoprogramador.com)
+[![Behance](https://aleen42.github.io/badges/src/behance.svg)](https://sujeitoprogramador.com)
 
 <div align="center">
   <a href="https://github.com/felipecostawp">
