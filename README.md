@@ -100,7 +100,9 @@
   <img align="center" alt="jQuery" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
 </div><br/>
 
-<div>
+<div style="display: inline_block" align="center">
+
+<img align="center" height="250" width="250" style="border-radius:100%;object-fit:cover;" alt="coding-time" src="code.gif">
 
 ![Snake animation](https://github.com/felipecostawp/felipecostawp/blob/output/github-contribution-grid-snake.svg)
 
