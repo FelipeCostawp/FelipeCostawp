@@ -102,7 +102,7 @@
 
 <div style="display: inline_block" align="center">
 
- <img src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" height="300" width="300" style="border-radius:100%;object-fit:cover;">
+ <img src="https://camo.githubusercontent.com/190338430fb2eca4d172a1987205c5e073b2de72db46cb4ed12cf1c2fa32041a/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f645765734263544c61766b5a754733354d492f67697068792e676966" height="150" width="150" style="border-radius:1000px;object-fit:cover;">
 
 ![Snake animation](https://github.com/felipecostawp/felipecostawp/blob/output/github-contribution-grid-snake.svg)
 
