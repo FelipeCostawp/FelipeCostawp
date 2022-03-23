@@ -1,22 +1,41 @@
 ## Olá! Eu sou o Felipe Costa 🖖🏾🧑🏾‍💻
 
-<div align="center">
+<!--<div align="center">
   <a href="https://github.com/felipecostawp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeCostawp&show_icons=true&theme=dracula&count_private=true"/>
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## 👨🏾‍💼 Sobre Mim
 
+<div style="display: flex">
+
 <div>
+    <img height="300px" src="https://images.pexels.com/photos/4450115/pexels-photo-4450115.jpeg?cs=srgb&dl=pexels-nataliya-vaitkevich-4450115.jpg&fm=jpg">
+</div>
+
+<div align="center" >
     <p>📝 Felipe Souza Costa</p>
     <p>🎂 02/01/1995</p>
     <p>📍 Brasil, Rio de janeiro, RJ</p>
 </div>
 
-## 🤳🏿Contato
+</div>
 
-<div style="display: inline_block">
+## 🤳🏿Contato
+## 👨🏾‍💼 Sobre Mim-->
+
+<div style="display: inline_block" align="center">
+
+<div>
+    <img height="300px" src="https://images.pexels.com/photos/4450115/pexels-photo-4450115.jpeg?cs=srgb&dl=pexels-nataliya-vaitkevich-4450115.jpg&fm=jpg">
+    
+<div align="center">
+  <a href="https://github.com/felipecostawp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeCostawp&show_icons=true&theme=dracula&count_private=true"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>-->
+</div>
+</div>
     <a href="#"><img align="center" alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
     <a href="#"><img align="center" alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
     <a href="#"><img align="center" alt="E-mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
