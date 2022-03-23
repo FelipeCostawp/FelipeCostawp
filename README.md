@@ -1,13 +1,9 @@
 ## Olá! Eu sou o Felipe Costa 🖖🏾🧑🏾‍💻
 
-[![Website](https://img.shields.io/website?label=lasite.com.br&style=for-the-badge&url=https://lasite.com.br/)](https://lasite.com)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://sujeitoprogramador.com)
-[![Behance](https://aleen42.github.io/badges/src/behance.svg)](https://sujeitoprogramador.com)
-
 <div align="center">
   <a href="https://github.com/felipecostawp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeCostawp&show_icons=true&theme=dracula&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>-->
 </div>
 
 ## 🤳🏿 Contato
@@ -73,6 +69,13 @@
   <img align="center" alt="React_Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </div><br/>
+
+## 🖥️ Website
+
+<div>
+  <a href="https://lasite.com.br">
+  <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
+</div>
 
 ## 🕹️ Jogos
 
