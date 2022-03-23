@@ -3,10 +3,11 @@
 [![Website](https://img.shields.io/website?label=lasite.com.br&style=for-the-badge&url=https://lasite.com.br/)](https://lasite.com)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://sujeitoprogramador.com)
 
-![FelipeCostawp GitHub stats](https://github-readme-stats.vercel.app/api?username=FelipeCostawp&show_icons=true&theme=dracula&count_private=true)
-
-
+<div align="center">
+  <a href="https://github.com/felipecostawp">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeCostawp&show_icons=true&theme=dracula&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## 🤳🏿 Contato
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://sujeitoprogramador.com)
