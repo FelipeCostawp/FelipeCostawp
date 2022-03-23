@@ -43,27 +43,7 @@
     <a href="#"><img align="center" alt="Zoom" src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" /></a>
 </div>
 
-## 📱 Celular
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-</div><br/>
-
-## 💽 Sistema Operacional
-
-<div style="display: inline_block">
-  <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-  <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  	
-</div><br/>
-
-## 🎭 Redes Sociais
-
-<div style="display: inline_block">
-    <a href="#"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="#"><img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-</div>
-
-## 👩🏾‍💻 Tecnologias que eu uso no meu dia
+## 👩🏾‍💻 O que eu sei
 
 <div style="display: inline_block" >
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -94,28 +74,28 @@
   <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 </div><br/>
 
-## 🖥️ Website
+## 💽 Sistema Operacional
 
-<div>
-  <a href="https://lasite.com.br">
-  <img height="25px" src="https://img.shields.io/website-up-down-green-red/http/monip.org.svg"/>
+<div style="display: inline_block">
+  <img align="center" alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img align="center" alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  	
+</div><br/>
+
+## 🎭 Redes Sociais
+
+<div style="display: inline_block">
+    <a href="#"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="#"><img align="center" alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </div>
 
-## 🎨 Designer
+## 💳 Banco Digital
 
 <div style="display: inline_block">
-  <a href="www.behance.com/felipecostawp"><img height="24px" align="center" alt="behance"  src="https://aleen42.github.io/badges/src/behance.svg" /></a>
-  <img height="24px" align="center" alt="Photoshop" src="https://aleen42.github.io/badges/src/photoshop.svg" />
-</div><br/>
+    <a href="#"><img align="center" alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+</div>
 
-## 🎮 Jogos
-
-<div style="display: inline_block">
-  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
-  <img align="center" alt="jQuery" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
-</div><br/>
-
-## 📀 Música:
+## 📀 Música
 
 <div style="display: inline_block">
   <img align="center" alt="spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />
@@ -137,9 +117,9 @@
   <img align="center" alt="ubereats" src="https://img.shields.io/badge/Uber_Eats-5FB709?style=for-the-badge&logo=uber-eats&logoColor=white" />
 </div><br/>
 
-## 💳 Banco Digital
+## 🎮 Jogos
 
 <div style="display: inline_block">
-    <a href="#"><img align="center" alt="Paypal" src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" /></a>
-</div>
-
+  <img align="center" alt="Node.js" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" />
+  <img align="center" alt="jQuery" src="https://img.shields.io/badge/Xbox-107C10?style=for-the-badge&logo=xbox&logoColor=white" />
+</div><br/>
